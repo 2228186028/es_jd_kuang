@@ -6,3 +6,4 @@
 
 ### 最终效果
 <img src="https://github.com/2228186028/es_jd_kuang/blob/master/page.png"/> 
+![](https://github.com/2228186028/es_jd_kuang/blob/master/page.png)
